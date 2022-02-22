@@ -1,0 +1,19 @@
+{
+    "name": "my-website",
+    "version": "1.0.0",
+    "description": "My first website",
+    "main": "index.js",
+    "scripts": {
+        "dev": "jekyll serve"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/KnotNick/my-website.git"
+    },
+    "author": "Nick Kot",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/KnotNick/my-website/issues"
+    },
+    "homepage": "https://github.com/KnotNick/my-website#readme"
+}
