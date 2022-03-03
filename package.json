@@ -19,6 +19,7 @@
     },
     "homepage": "https://github.com/KnotNick/my-website#readme",
     "dependencies": {
+        "bootstrap": "^5.1.3",
         "gh-pages": "^3.2.3"
     }
 }

@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Styles -->
+        <link href='{{ "/assets/css/main.css" | prepend: site.baseurl }}'
+        rel="stylesheet">
+        <title>My website</title>
+    </head>
+    <body>
+
+{% include header.html %}
+
+{{ content }}
+
+{% include footer.html %}
+
+</body>
+</html>
